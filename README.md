@@ -1,5 +1,6 @@
 # Criteiros-de-acessibilidade
 Elementos não textuais
+
 Todas as imagens têm um texto alternativo (alt)
 Todas as imagens devem ter o atributo "alt". O texto alternativo deve ser usado sempre que a imagem transmite algo relevante para o conteúdo. O texto deve ser breve e percetível. Nas imagens que não adicionam informação relevante (ex: imagem de uma bola de futebol num artigo sobre futebol), o atributo "alt" tem de existir na mesma, mas neste caso deve estar vazio, ex: alt="".  
 O trabalho vai ter um atributo “alt” para o usuário identificar o que estaria no lugar da imagem caso ela nao carregue.
